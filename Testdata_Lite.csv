@@ -882,7 +882,7 @@ restart,:40000006:
 10920,カストルム・ラクスリトレ攻城戦
 10975,旗艦ダル･リアータ攻略戦
 10956,特殊コンテンツテスト
-exception_zone,632|644|745|619|646|767|376|431|554|888|729|791|250|733|10827|10920|10975
+exception_zone,632|644|745|619|646|767|376|431|554|888|729|791|250|733
 content_field,ChangeMap 28:414:???:Eureka Anemos:|ChangeMap 28:467:???:Eureka Pagos:|ChangeMap 28:484:???:Eureka Pyros:|ChangeMap 28:515:???:Eureka Hydatos:|ChangeMap 28:606:???:Bozjan Southern Front:|ChangeMap 28:665:???:Zadnor:
 enter_dynamicevent,StatusAdd 1A:6F2:マウント騎乗不可:9999.00:
 clear_dynamicevent,:80000005:00:00:00:00
