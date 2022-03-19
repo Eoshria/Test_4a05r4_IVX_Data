@@ -892,7 +892,6 @@ enter_dynamicevent,StatusAdd 1A:6F2:マウント騎乗不可:9999.00:
 clear_dynamicevent,:80000005:00:00:00:00
 enter_ce_dungeon,ChatLog 00:0039::この大規模決戦では、報酬取得の権利がプレイヤーごとに付与されます。
 map_dynamicevent,ChangeMap 28:521:???:Eureka Hydatos:The Basement:|ChangeMap 28:524:???:Eureka Hydatos:The Belly:|ChangeMap 28:525:???:Eureka Hydatos:The Umbral Tier:|ChangeMap 28:526:???:Eureka Hydatos:The Astral Tier:|ChangeMap 28:527:???:Eureka Hydatos:The Loft:|ChangeMap 28:616:???:Castrum Lacus Litore:|ChangeMap 28:673:???:The Dalriada:|ChangeMap 28:674:???:The Dalriada:|ChangeMap 28:675:???:The Dalriada:
-enter_dpschallenge,AddCombatant 03:
 clear_dpschallenge,:木人討滅戦を達成した！|:木人討滅戦に失敗した……
 xxxx,yyyy
 start_field,ChangeMap 28:414:???:Eureka Anemos:|ChangeMap 28:467:???:Eureka Pagos:|ChangeMap 28:484:???:Eureka Pyros:|ChangeMap 28:515:???:Eureka Hydatos:|ChangeMap 28:606:???:Bozjan Southern Front:|ChangeMap 28:665:???:Zadnor:
