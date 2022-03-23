@@ -912,6 +912,37 @@ ce_21B,模造密告者「IVレギオン・シュミハザ」
 ce_21D,模造魔人「IVレギオン・ベリアス」
 ce_221,焦土の魔蠍「ヘデテト」
 ce_222,有角の凶鳥「アルコノスト」
+796_1,デビューマッチ
+796_2,プリン・アラモード
+796_3,最初の岩壁「シパクナー」
+796_4,怪力の鉄巨人「クレイオス」
+796_5,ギルガメブラザーズ
+796_6,ブラインド・フューリー
+796_7,シアーハートアタック
+796_8,青い牙、赤い牙
+796_9,七色の甘味「ギモーヴ」
+796_10,偶像の王者「クロムドゥーブ」
+796_11,爆ボム・ファーストアタック
+796_12,寄生植物「ヒドノラ」
+796_13,紅の死妖姫「カーミラ」
+796_14,死なばもろともーッ！
+796_15,アラグの脅威「闘獣システム」
+796_16,豪腕の獣王「ティクバラン」
+796_17,豪柔の鉄巨人「クレイオス改」
+796_18,爆破デスマッチ
+796_19,魅惑の芳香「リフレクティブ・レベッカ」
+796_20,名コンビ「オルトロス＆テュポーン」
+796_21,憤怒の合成獣「アペデマク」
+796_22,爆発の対消滅「グランパボム」
+796_23,魔獣の皇太子「クロンプリンツ・ベヒーモス」
+796_24,異形の人形師「エペロギ」
+796_25,悪の青魔道士「アポカリョープス」
+796_26,豪腕の父親「フンババ・パパ」
+796_27,はないき爆破デスマッチ
+796_28,至妙の傀儡子「ドゥリン」
+796_29,水と炎の歌
+796_30,世界一の剣士「ジークフリード」
+796_31,黄金頭巾「ものまね士ゴゴ」
 exception_zone,632|644|745|619|646|767|376|431|554|888|729|791|250|733
 map_contentfield,ChangeMap 28:414:???:Eureka Anemos:|ChangeMap 28:467:???:Eureka Pagos:|ChangeMap 28:484:???:Eureka Pyros:|ChangeMap 28:515:???:Eureka Hydatos:|ChangeMap 28:606:???:Bozjan Southern Front:|ChangeMap 28:665:???:Zadnor:|ChangeMap 28:521:???:Eureka Hydatos:The Basement:|ChangeMap 28:524:???:Eureka Hydatos:The Belly:|ChangeMap 28:525:???:Eureka Hydatos:The Umbral Tier:|ChangeMap 28:526:???:Eureka Hydatos:The Astral Tier:|ChangeMap 28:527:???:Eureka Hydatos:The Loft:|ChangeMap 28:616:???:Castrum Lacus Litore:|ChangeMap 28:673:???:The Dalriada:|ChangeMap 28:674:???:The Dalriada:|ChangeMap 28:675:???:The Dalriada:
 zone_contentfield,:2DC:Eureka Anemos|:2FB:Eureka Pagos|:31B:Eureka Pyros|:33B:Eureka Hydatos|:398:Bozjan Southern Front|:3CF:Zadnor
@@ -919,6 +950,8 @@ enter_dynamicevent,StatusAdd 1A:6F2:マウント騎乗不可:9999.00:
 clear_dynamicevent,:80000005:00:00:00:00
 map_dynamicevent,ChangeMap 28:521:???:Eureka Hydatos:The Basement:|ChangeMap 28:524:???:Eureka Hydatos:The Belly:|ChangeMap 28:525:???:Eureka Hydatos:The Umbral Tier:|ChangeMap 28:526:???:Eureka Hydatos:The Astral Tier:|ChangeMap 28:527:???:Eureka Hydatos:The Loft:|ChangeMap 28:616:???:Castrum Lacus Litore:|ChangeMap 28:673:???:The Dalriada:|ChangeMap 28:674:???:The Dalriada:|ChangeMap 28:675:???:The Dalriada:
 clear_dpschallenge,:木人討滅戦を達成した！|:木人討滅戦に失敗した……
+zone_nametoggle30,796|テスト用ダミーゾーン
+words_nametoggle30,「デビューマッチ」の攻略を開始した。|「プリン・アラモード」の攻略を開始した。|「最初の岩壁「シパクナー」」の攻略を開始した。|「怪力の鉄巨人「クレイオス」」の攻略を開始した。|「ギルガメブラザーズ」の攻略を開始した。|「ブラインド・フューリー」の攻略を開始した。|「シアーハートアタック」の攻略を開始した。|「青い牙、赤い牙」の攻略を開始した。|「七色の甘味「ギモーヴ」」の攻略を開始した。|「偶像の王者「クロムドゥーブ」」の攻略を開始した。|「爆ボム・ファーストアタック」の攻略を開始した。|「寄生植物「ヒドノラ」」の攻略を開始した。|「紅の死妖姫「カーミラ」」の攻略を開始した。|「死なばもろともーッ！」の攻略を開始した。|「アラグの脅威「闘獣システム」」の攻略を開始した。|「豪腕の獣王「ティクバラン」」の攻略を開始した。|「豪柔の鉄巨人「クレイオス改」」の攻略を開始した。|「爆破デスマッチ」の攻略を開始した。|「魅惑の芳香「リフレクティブ・レベッカ」」の攻略を開始した。|「名コンビ「オルトロス＆テュポーン」」の攻略を開始した。|「憤怒の合成獣「アペデマク」」の攻略を開始した。|「爆発の対消滅「グランパボム」」の攻略を開始した。|「魔獣の皇太子「クロンプリンツ・ベヒーモス」」の攻略を開始した。|「異形の人形師「エペロギ」」の攻略を開始した。|「悪の青魔道士「アポカリョープス」」の攻略を開始した。|「豪腕の父親「フンババ・パパ」」の攻略を開始した。|「はないき爆破デスマッチ」の攻略を開始した。|「至妙の傀儡子「ドゥリン」」の攻略を開始した。|「水と炎の歌」の攻略を開始した。|「世界一の剣士「ジークフリード」」の攻略を開始した。|「黄金頭巾「ものまね士ゴゴ」」の攻略を開始した。
 xxxx,yyyy
 10399,木人討滅戦：蒼天編
 10612,木人討滅戦：紅蓮編
