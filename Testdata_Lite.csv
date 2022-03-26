@@ -900,6 +900,7 @@ ce_1D7,カストルム・ラクスリトレ攻城戦
 ce_1D8,カストルム・ラクスリトレ攻城戦
 ce_1D9,カストルム・ラクスリトレ攻城戦
 ce_1DA,カストルム・ラクスリトレ攻城戦
+ce_1DC,戦慄の角「チルヴニク」
 ce_1DF,新たなる鉄巨人「魔導レイバーX型」
 ce_20F,邪悪なる氷狼「フローズヴィトニル」
 ce_210,異界の廃王「ハンビ」
@@ -952,21 +953,3 @@ clear_dynamicevent,:80000005:00:00:00:00
 clear_dpschallenge,:木人討滅戦を達成した！|:木人討滅戦に失敗した……
 zone_nametoggle30,796|テスト用ダミーゾーン
 words_nametoggle30,「デビューマッチ」の攻略を開始した。|「プリン・アラモード」の攻略を開始した。|「最初の岩壁「シパクナー」」の攻略を開始した。|「怪力の鉄巨人「クレイオス」」の攻略を開始した。|「ギルガメブラザーズ」の攻略を開始した。|「ブラインド・フューリー」の攻略を開始した。|「シアーハートアタック」の攻略を開始した。|「青い牙、赤い牙」の攻略を開始した。|「七色の甘味「ギモーヴ」」の攻略を開始した。|「偶像の王者「クロムドゥーブ」」の攻略を開始した。|「爆ボム・ファーストアタック」の攻略を開始した。|「寄生植物「ヒドノラ」」の攻略を開始した。|「紅の死妖姫「カーミラ」」の攻略を開始した。|「死なばもろともーッ！」の攻略を開始した。|「アラグの脅威「闘獣システム」」の攻略を開始した。|「豪腕の獣王「ティクバラン」」の攻略を開始した。|「豪柔の鉄巨人「クレイオス改」」の攻略を開始した。|「爆破デスマッチ」の攻略を開始した。|「魅惑の芳香「リフレクティブ・レベッカ」」の攻略を開始した。|「名コンビ「オルトロス＆テュポーン」」の攻略を開始した。|「憤怒の合成獣「アペデマク」」の攻略を開始した。|「爆発の対消滅「グランパボム」」の攻略を開始した。|「魔獣の皇太子「クロンプリンツ・ベヒーモス」」の攻略を開始した。|「異形の人形師「エペロギ」」の攻略を開始した。|「悪の青魔道士「アポカリョープス」」の攻略を開始した。|「豪腕の父親「フンババ・パパ」」の攻略を開始した。|「はないき爆破デスマッチ」の攻略を開始した。|「至妙の傀儡子「ドゥリン」」の攻略を開始した。|「水と炎の歌」の攻略を開始した。|「世界一の剣士「ジークフリード」」の攻略を開始した。|「黄金頭巾「ものまね士ゴゴ」」の攻略を開始した。
-xxxx,yyyy
-10399,木人討滅戦：蒼天編
-10612,木人討滅戦：紅蓮編
-10827,バルデシオンアーセナル
-10814,木人討滅戦：漆黒編
-10920,クリティカルエンゲージメント
-10957,木人討滅戦：暁月編
-10975,クリティカルエンゲージメント
-20827,バルデシオンアーセナル
-20920,カストルム・ラクスリトレ攻城戦
-20975,旗艦ダル･リアータ攻略戦
-map_dynamicevent,ChangeMap 28:521:???:Eureka Hydatos:The Basement:|ChangeMap 28:524:???:Eureka Hydatos:The Belly:|ChangeMap 28:525:???:Eureka Hydatos:The Umbral Tier:|ChangeMap 28:526:???:Eureka Hydatos:The Astral Tier:|ChangeMap 28:527:???:Eureka Hydatos:The Loft:|ChangeMap 28:616:???:Castrum Lacus Litore:|ChangeMap 28:673:???:The Dalriada:|ChangeMap 28:674:???:The Dalriada:|ChangeMap 28:675:???:The Dalriada:
-start_field,ChangeMap 28:414:???:Eureka Anemos:|ChangeMap 28:467:???:Eureka Pagos:|ChangeMap 28:484:???:Eureka Pyros:|ChangeMap 28:515:???:Eureka Hydatos:|ChangeMap 28:606:???:Bozjan Southern Front:|ChangeMap 28:665:???:Zadnor:
-start_content,ChangeMap 28:521:???:Eureka Hydatos:The Basement:|ChangeMap 28:524:???:Eureka Hydatos:The Belly:|ChangeMap 28:525:???:Eureka Hydatos:The Umbral Tier:|ChangeMap 28:526:???:Eureka Hydatos:The Astral Tier:|ChangeMap 28:527:???:Eureka Hydatos:The Loft:|ChangeMap 28:616:???:Castrum Lacus Litore:|ChangeMap 28:673:???:The Dalriada:|ChangeMap 28:674:???:The Dalriada:|ChangeMap 28:675:???:The Dalriada:     
-end_content,ChangeMap 28:172:Hingashi:Kugane:|ChangeMap 28:515:???:Eureka Hydatos:|ChangeMap 28:603:???:Gangos:|ChangeMap 28:606:???:Bozjan Southern Front:|ChangeMap 28:665:???:Zadnor:
-clear_content,:プロトオズマ:|:ドゥン:|:ディアブロ・アーマメント:
-zone_contentfield,:2DC:Eureka Anemos|:2FB:Eureka Pagos|:31B:Eureka Pyros|:33B:Eureka Hydatos|:398:Bozjan Southern Front|:3CF:Zadnor
-ce_end_zone,Territory 01:398:Bozjan Southern Front|Territory 01:3CF:Zadnor
