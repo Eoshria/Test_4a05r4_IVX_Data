@@ -945,7 +945,7 @@ ce_222,有角の凶鳥「アルコノスト」
 content_victory,:40000007:00:00:00:00
 content_fadeout,40000010
 content_restart,40000006
-zone_exception,632|644|745|619|646|767|376|431|554|888|729|791|250|733
+zone_exception,250|376|431|554|619|632|644|646|729|733|745|767|791|888
 map_contentfields,Eureka Anemos|Eureka Pagos|Eureka Pyros|Eureka Hydatos|The DiademBozjan Southern Front|Zadnor|Castrum Lacus Litore|The Dalriada
 clear_dynamicevent,:80000005:00:00:00:00
 clear_dpschallenge,木人討滅戦を達成した！|木人討滅戦に失敗した……
