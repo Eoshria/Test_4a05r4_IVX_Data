@@ -946,8 +946,8 @@ ce_222,有角の凶鳥「アルコノスト」
 796_29,水と炎の歌
 796_30,世界一の剣士「ジークフリード」
 796_31,黄金頭巾「ものまね士ゴゴ」
-WipeCode,:40000010:
-Restart,:40000006:
+WipeCode,40000010
+Restart,40000006
 DynamicEvent_Status,マウント騎乗不可
 zone_exception,632|644|745|619|646|767|376|431|554|888|729|791|250|733
 map_contentfield,ChangeMap 28:414:???:Eureka Anemos:|ChangeMap 28:467:???:Eureka Pagos:|ChangeMap 28:484:???:Eureka Pyros:|ChangeMap 28:515:???:Eureka Hydatos:|ChangeMap 28:584:Abalathia's Spine:The Diadem:|ChangeMap 28:606:???:Bozjan Southern Front:|ChangeMap 28:665:???:Zadnor:|ChangeMap 28:521:???:Eureka Hydatos:The Basement:|ChangeMap 28:524:???:Eureka Hydatos:The Belly:|ChangeMap 28:525:???:Eureka Hydatos:The Umbral Tier:|ChangeMap 28:526:???:Eureka Hydatos:The Astral Tier:|ChangeMap 28:527:???:Eureka Hydatos:The Loft:|ChangeMap 28:616:???:Castrum Lacus Litore:|ChangeMap 28:673:???:The Dalriada:|ChangeMap 28:674:???:The Dalriada:|ChangeMap 28:675:???:The Dalriada:
