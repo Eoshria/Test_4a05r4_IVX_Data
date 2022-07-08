@@ -1,6 +1,8 @@
 "Id","Name","Dungeon"
 "lastest_version","1131",""
 "release_notes","更新内容を表示するように変更",""
+"open_debugview","False",""
+"open_debugtts","False",""
 "128","リムサ・ロミンサ：上甲板層",""
 "129","リムサ・ロミンサ：下甲板層",""
 "130","ウルダハ：ナル回廊",""
