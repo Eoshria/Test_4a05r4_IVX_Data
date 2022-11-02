@@ -1,7 +1,7 @@
 "Id","Name","Dungeon"
 "lastest_version","1133",""
 "release_notes","・デバッグモードの設定ミスを修正↩・処理の優先順位を変更と安定化",""
-"open_debugview","True",""
+"open_debugview","False",""
 "open_debugtts","False",""
 "128","リムサ・ロミンサ：上甲板層",""
 "129","リムサ・ロミンサ：下甲板層",""
