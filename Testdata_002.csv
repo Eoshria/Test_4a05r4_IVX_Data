@@ -1,7 +1,7 @@
 "Id","Name","Dungeon"
 "lastest_version","1132",""
 "release_notes","・処理の優先順位変更と安定化",""
-"open_debugview","False",""
+"open_debugview","True",""
 "open_debugtts","False",""
 "128","リムサ・ロミンサ：上甲板層",""
 "129","リムサ・ロミンサ：下甲板層",""
