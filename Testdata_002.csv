@@ -1,5 +1,5 @@
 "Id","Name","Dungeon"
-"lastest_version","1133",""
+"lastest_version","1132,""
 "release_notes","・処理の優先順位を変更と安定化↩・デバッグモードの設定ミスを修正,""
 "open_debugview","True",""
 "open_debugtts","False",""
