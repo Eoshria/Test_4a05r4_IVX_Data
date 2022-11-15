@@ -1,6 +1,6 @@
 "Id","Name","Dungeon"
-"lastest_version","1133",""
-"release_notes","・デバッグモードの設定ミスを修正↩・処理の優先順位を変更と安定化",""
+"lastest_version","1134",""
+"release_notes","・CE・木人討滅戦終了後に同じエリアで↩通常戦闘すると名前が戻らない不具合の修正",""
 "open_debugview","False",""
 "open_debugtts","False",""
 "128","リムサ・ロミンサ：上甲板層",""
