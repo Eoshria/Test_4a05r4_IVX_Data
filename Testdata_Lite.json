@@ -1092,7 +1092,8 @@
         "count": "00:0039::戦闘開始まで10秒！",
         "blockade": "29:[0-9A-Z]{8}:7DC:02:[0-9A-Z]{2,}:0F",
         "no_riding": "1A:6F2:マウント騎乗不可:9999.00:E0000000::",
-        "Transcendent": "1A:1A2:生還:5.00:E0000000::"
+        "Transcendent": "1A:1A2:生還:5.00:E0000000::",
+        "party_dissolution": "PartyList 0B:0$"
     },
     "DpsChallenge": [
         "木人討滅戦を達成した！",
